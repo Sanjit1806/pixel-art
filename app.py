@@ -26,7 +26,7 @@ def infer(prompt, negative_prompt, seed, randomize_seed, width, height, guidance
     generator = torch.Generator().manual_seed(seed)
     
     image = pipe(
-        prompt = prompt, 
+        prompt = "Pixel Art of " + prompt, 
         negative_prompt = negative_prompt,
         guidance_scale = guidance_scale, 
         num_inference_steps = num_inference_steps, 
@@ -59,7 +59,7 @@ with gr.Blocks(css=css) as demo:
     
     with gr.Column(elem_id="col-container"):
         gr.Markdown(f"""
-        # Text-to-Image Gradio Template
+        # Pixel Art Anyone?
         Currently running on {power_device}.
         """)
         
