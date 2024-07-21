@@ -79,13 +79,11 @@ with gr.Blocks(css=css) as demo:
 
         with gr.Accordion("Advanced Settings", open=False):
             
-            with gr.Row():
-                negative_prompt = gr.Text(
-                    label="Negative prompt",
-                    max_lines=1,
-                    placeholder="Enter a negative prompt",
-                    visible=False,
-                )
+            negative_prompt = gr.Text(
+                label="Negative prompt",
+                max_lines=1,
+                placeholder="Enter a negative prompt",
+            )
             
             seed = gr.Slider(
                 label="Seed",
