@@ -1,5 +1,5 @@
 ---
-title: Text-to-Image Gradio Template
+title: Pixel Art
 emoji: 🖼
 colorFrom: purple
 colorTo: red
