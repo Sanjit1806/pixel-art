@@ -60,3 +60,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - [Hugging Face](https://huggingface.co/) for providing the model and platform
 - [Gradio](https://gradio.app/) for the user interface framework
+
+## Contributors
+- github.com/Sanjit1806
+- 
