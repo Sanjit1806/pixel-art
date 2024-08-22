@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/pran-ayyy/pixel-art.git
+    git clone https://github.com/Sanjit1806/pixel-art.git
     cd pixel-art
     ```
 
