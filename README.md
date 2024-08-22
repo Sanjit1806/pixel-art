@@ -62,5 +62,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - [Gradio](https://gradio.app/) for the user interface framework
 
 ## Contributors
-- github.com/Sanjit1806
-- 
+- [Pranay](https://github.com/pran-ayyy)
+- [Sanjit](https://github.com/Sanjit1806)
