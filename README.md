@@ -4,7 +4,7 @@ This project is a Hugging Face Space that generates pixel art from any prompt us
 
 ## Demo
 
-You can try out the demo [here](https://huggingface.co/spaces/Sanjit1806/pixel-art)).
+You can try out the demo [here](https://huggingface.co/spaces/Sanjit1806/pixel-art).
 
 ## Features
 
